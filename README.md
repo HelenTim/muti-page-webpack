@@ -1,3 +1,5 @@
+自注：旨在多文件入口自己如何配置以及html-withimg-losder如何使用。
+
 # muti-page-webpack
 basic webpack configuration for mutiple page application
 
